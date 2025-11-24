@@ -89,10 +89,10 @@ Key arguments defined in `parse.py`:
 
 The overall architecture of the proposed model is shown below:
 
-![Model Architecture](https://github.com/js66y/TCM_Diagnostic_Reasoner/blob/main/model.jpg)
+![Model Architecture](https://github.com/js66y/TCM_Diagnostic_Reasoner/blob/main/test.png)
 
 ## 📈 Experimental Results
 
 An example of the model's performance on the test set:
 
-![Test Results](https://github.com/js66y/TCM_Diagnostic_Reasoner/blob/main/test.jpg)
+![Test Results](https://github.com/js66y/TCM_Diagnostic_Reasoner/blob/main/model.jpg)
