@@ -95,4 +95,4 @@ The overall architecture of the proposed model is shown below:
 
 An example of the model's performance on the test set:
 
-![Test Results](https://github.com/js66y/TCM_Diagnostic_Reasoner/blob/main/test.png)
+![Test Results](https://github.com/js66y/TCM_Diagnostic_Reasoner/blob/a91c56d76a85d96d588773a5c908f29ac4af26a3/test.png)
